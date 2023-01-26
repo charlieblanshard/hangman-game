@@ -1,0 +1,17 @@
+.container {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.outerContainer {
+  margin-left: 5%;
+  margin-right: 10%;
+  margin-top: 50px;
+}
+
+.guessPara {
+  font-weight: bold;
+  font-size: 20px;
+}
