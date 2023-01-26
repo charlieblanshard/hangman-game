@@ -8,8 +8,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To start program
 
-In the project directory (my-hangman), you can run:
+In the project directory (my-hangman), install node modules:
+`npm install`
 
+Install english words:
+`an-array-of-english-words - npm`
+
+Start program:
 `npm start`
 
 ## How to use
